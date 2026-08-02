@@ -1,0 +1,21 @@
+user_id,full_name,department,role,last_login_date,account_created_date,mfa_enabled
+U1001,Aarav Shah,Claims,Application Admin,2026-07-30,2025-04-05,True
+U1002,Priya Nair,Underwriting,Helpdesk Operator,2026-07-27,2024-02-16,True
+U1003,Rohan Mehta,Finance,Security Reader,2026-07-30,2025-12-12,True
+U1004,Ananya Iyer,Underwriting,Helpdesk Operator,2026-07-30,2024-06-16,True
+U1005,Karan Verma,Customer Service,Application Admin,2026-01-13,2024-11-14,False
+U1006,Sneha Rao,IT,Security Reader,2026-07-30,2025-08-01,False
+U1007,Vikram Joshi,IT,Global Admin,2026-07-22,2025-05-28,True
+U1008,Divya Pillai,Claims,Standard User,2026-01-13,2025-03-20,True
+U1009,Arjun Kapoor,IT,Billing Admin,2026-04-28,2025-08-27,False
+U1010,Meera Menon,Claims,Security Reader,2026-01-13,2025-04-08,True
+U1011,Sai Reddy,Customer Service,Billing Admin,2026-04-03,2024-02-02,True
+U1012,Nikhil Desai,Claims,Application Admin,2026-07-30,2024-03-05,True
+U1013,Pooja Bhatt,IT,Billing Admin,2026-07-27,2025-05-15,True
+U1014,Rahul Malhotra,IT,User Admin,2025-06-27,2023-02-28,True
+U1015,Ishita Sen,IT,Helpdesk Operator,2026-04-03,2025-02-13,True
+U1016,Aditya Kulkarni,Customer Service,Application Admin,2026-07-27,2024-04-25,True
+U1017,Kavya Pandey,Customer Service,Security Reader,2026-06-17,2025-06-15,False
+U1018,Varun Chopra,IT,User Admin,2026-06-17,2025-01-01,True
+U1019,Riya Sharma,Claims,Helpdesk Operator,2026-04-03,2024-08-01,True
+U1020,Manav Gupta,Underwriting,Standard User,2026-04-03,2025-02-10,False
