@@ -43,4 +43,4 @@ python3 access_review.py users.csv # runs the review and prints findings
 
 ## Tech used
 
-Python 3, `csv`, `datetime` — no external dependencies.
+Jupyter Notebook,Google Colab, `csv`, `datetime` — no external dependencies.
